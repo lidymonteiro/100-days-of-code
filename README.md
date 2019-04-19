@@ -4,6 +4,6 @@ Documentação da minha participação no desafio 100 dias de código: https://w
 ### Metas 
 
 1. Curso JavaScript Ninja (https://www.udemy.com/curso-javascript-ninja)
-Início: 18/04
+- Início: 18/04
 
 2. Curso React Ninja (https://www.udemy.com/curso-reactjs-ninja/)
